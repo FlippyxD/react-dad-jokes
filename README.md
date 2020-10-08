@@ -12,4 +12,6 @@ Web app created with ReactJS to fetch jokes and give you (hopefully) a bit of la
 - Dynamically changed styles based on number of likes/dislikes
 - Completely rewritten using React hooks
 
+This project is based on the project in [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/)
+
 ![Dad Jokes Visual](./src/images/Dad-jokes.PNG?raw=true "Dad Jokes Visual")
